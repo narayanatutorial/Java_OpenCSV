@@ -13,7 +13,6 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 /**
- *
  * @author rbns
  */
 public class DatabaseConnection {
